@@ -1,0 +1,15 @@
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/bin/Debug/net8.0/DictionaryProject
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/bin/Debug/net8.0/DictionaryProject.deps.json
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/bin/Debug/net8.0/DictionaryProject.runtimeconfig.json
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/bin/Debug/net8.0/DictionaryProject.dll
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/bin/Debug/net8.0/DictionaryProject.pdb
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.AssemblyInfoInputs.cache
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.AssemblyInfo.cs
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.csproj.CoreCompileInputs.cache
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.sourcelink.json
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.dll
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/refint/DictionaryProject.dll
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.pdb
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/DictionaryProject.genruntimeconfig.cache
+/workspaces/Module-07-Collections-Group-Project-/DictionaryProject/obj/Debug/net8.0/ref/DictionaryProject.dll
